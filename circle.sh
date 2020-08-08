@@ -34,7 +34,7 @@ done
 
 x=0
 y=$(( R ))
-d=$(( 3 - 2 * r ))
+d=$(( 3 - 2 * R ))
 
 plot
 while [ $y -ge $x ]; do
